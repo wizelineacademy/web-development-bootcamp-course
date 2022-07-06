@@ -1,4 +1,4 @@
-# Crear archivos usando la terminal
+# Crear archivos y carpetas usando la terminal
 
 ## Windows
 
