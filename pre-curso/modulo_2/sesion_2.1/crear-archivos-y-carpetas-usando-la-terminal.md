@@ -10,7 +10,7 @@ En el directorio actual crearemos una nueva carpeta llamada `web-development-boo
 
 ![imagen](https://user-images.githubusercontent.com/5317347/177886788-57f83303-8024-4c42-9f7d-f74cdce1eca5.png)
 
-A continuación creamos nuestro archivo para nuestra primera página, lo llamaremos `index.html` y lo crearemos con el siguiente comando: `type nul > index.html` Y posteriormente para verificar que ha sido creado con exito listaremos los archivos dle directorio con el comando: `dir`
+A continuación creamos nuestro archivo para nuestra primera página, lo llamaremos `index.html` y lo crearemos con el siguiente comando: `type nul > index.html`. Posteriormente para verificar que ha sido creado con exito listaremos los archivos del directorio con el comando: `dir`
 
 ![imagen](https://user-images.githubusercontent.com/5317347/177887173-64728c2b-2cd2-4436-9781-092957e798c3.png)
 
