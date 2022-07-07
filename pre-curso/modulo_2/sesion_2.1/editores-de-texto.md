@@ -32,9 +32,9 @@ terminal, el siguiente comando
 
 Para editar un archivo, desde el explorador navegamos a nuestro archivo deseado y damos doble clic para abrirlo.
 
-![](../../../../Imágenes/Capturas de pantalla/Captura desde 2022-07-06 21-08-49.png)
+![](img_6.png)
 
-![](../../../../Imágenes/Capturas de pantalla/Captura desde 2022-07-06 21-10-05.png)
+![](img_7.png)
 
 Añade el siguiente contenido, que representa la estructura básica de una página en HTML5, y guarda el archivo.
 
