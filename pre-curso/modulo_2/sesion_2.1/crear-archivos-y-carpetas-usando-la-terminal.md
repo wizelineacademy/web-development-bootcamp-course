@@ -2,7 +2,7 @@
 
 ## Windows
 
-## Linux
+## Linux y macOS
 
 Utilizamos el comando `pwd` para identificar el directorio (tambíen conocido como carpeta o folder) donde nos encontramos
 
@@ -13,6 +13,4 @@ En el directorio actual crearemos una nueva carpeta llamada `web-development-boo
 ![imagen](https://user-images.githubusercontent.com/5317347/177457160-8e8f7e79-6898-4372-a8ea-26bc2c4e39af.png)
 
 A continuación creamos nuestro archivo para nuestra primera página, lo llamaremos `index.html` y lo crearemos con el siguiente comando: `touch index.html`
-
-## Mac
 
