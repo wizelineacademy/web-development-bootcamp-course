@@ -2,6 +2,16 @@
 
 ## Windows
 
+Utilizamos el comando `cd` para identificar el directorio (tambíen conocido como carpeta o folder) donde nos encontramos
+
+![imagen](https://user-images.githubusercontent.com/5317347/177886643-c3a478d5-5bc0-48bf-8c06-058c75521047.png)
+
+En el directorio actual crearemos una nueva carpeta llamada `web-development-bootcamp` utilizando el siguiente comando: `mkdir web-development-bootcamp` y nos desplazamos a la carpeta con `cd web-development-bootcamp`
+
+![imagen](https://user-images.githubusercontent.com/5317347/177886788-57f83303-8024-4c42-9f7d-f74cdce1eca5.png)
+
+A continuación creamos nuestro archivo para nuestra primera página, lo llamaremos `index.html` y lo crearemos con el siguiente comando: `touch index.html`
+
 ## Linux y macOS
 
 Utilizamos el comando `pwd` para identificar el directorio (tambíen conocido como carpeta o folder) donde nos encontramos
