@@ -15,7 +15,7 @@ Para editar un archivo, desde el explorador navegamos a nuestro archivo deseado,
 
 Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo.
 
-
+![imagen](https://user-images.githubusercontent.com/5317347/178031866-0d320127-5759-4b8d-99a6-9175ddc741fa.png)
 
 
 
