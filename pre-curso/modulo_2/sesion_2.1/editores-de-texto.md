@@ -6,6 +6,17 @@ En Windows podemos utilizar el bloc de notas o notedap++ que incluye algunas fun
 
 ### Bloc de notas
 
+#### Editar archivos
+
+Para editar un archivo, desde el explorador navegamos a nuestro archivo deseado, damos clic derecho, abrir con -> Elegir otra aplicación y buscamos el Bloc de notas.
+
+![imagen](https://user-images.githubusercontent.com/5317347/178029984-5be7c428-3b27-46e4-b534-5bb82d9e184a.png)
+
+
+Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo.
+
+
+
 
 
 ## Linux y macOS
