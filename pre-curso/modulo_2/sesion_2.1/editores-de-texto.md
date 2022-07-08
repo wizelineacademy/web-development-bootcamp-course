@@ -2,6 +2,12 @@
 
 ## Windows
 
+En Windows podemos utilizar el bloc de notas o notedap++ que incluye algunas funciones adicionales con las que no cuenta el bloc de notas.
+
+### Bloc de notas
+
+
+
 ## Linux y macOS
 
 ### gedit
@@ -36,7 +42,7 @@ Para editar un archivo, desde el explorador navegamos a nuestro archivo deseado 
 
 ![](img_7.png)
 
-Añade el siguiente contenido, que representa la estructura básica de una página en HTML5, y guarda el archivo.
+Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo.
 
 ![img_2.png](img_2.png)
 
@@ -59,12 +65,12 @@ Para abrir nuestro archivo con vim ejecutaremos el siguiente comando:
 
 Y se nos abrirá el editor en nuestra terminal
 
-Añade el siguiente contenido, que representa la estructura básica de una página en HTML5, y guarda el archivo
+Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo
 presionando la tecla `ctrl` y la letra `O` al mismo tiempo.
 
 ![img_5.png](img_5.png)
 
-Para cerrar el editor presiona la tecla `ctrl` y la letra `X` al mismo tiempo.
+Para cerrar el editor presionamos la tecla `ctrl` y la letra `X` al mismo tiempo.
 
 ### vim
 
@@ -92,8 +98,8 @@ Para entrar en modo edición presionamos la tecla `i` que nos pondra en el modo 
 
 ![img_4.png](img_4.png)
 
-Añade el siguiente contenido, que representa la estructura básica de una página en HTML5, y guarda el archivo
-presionamos la tecla `escape (esc)`, escribimos `:wq` y presionamos `enter`,
+Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo.
+Presionamos la tecla `escape (esc)`, escribimos `:wq` y presionamos `enter`,
 donde la `w (write)` nos indica que escribiremos los cambios y la `q (quit)` sera para cerrar vim.
 
 ![img_3.png](img_3.png)
