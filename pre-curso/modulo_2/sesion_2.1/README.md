@@ -1,5 +1,3 @@
-
-
 ## :tv: Video
 
 <div align="center">
@@ -9,6 +7,7 @@
 ## :clipboard: Recursos de la lección
 
 - [Crear archivos y carpetas utilizando la terminal](crear-archivos-y-carpetas-usando-la-terminal.md)
+- [Editores de texto](editores-de-texto.md)
 
 
 ## :computer: Actividades
