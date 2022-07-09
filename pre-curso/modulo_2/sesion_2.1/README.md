@@ -13,8 +13,9 @@
 ## :computer: Actividades
 
 - [ ] Elige el tema sobre el que trabajaras tu página tributo.
-- [ ] Crea la carpeta donde guardaremos los archivos del curso
+- [ ] Crea la carpeta donde guardaremos los archivos del curso. Desde la interfazgráfica y utilizando la terminal.
 - [ ] Crea el archivo index.html dentro de la carpeta que creaste
+- [ ] Abre el archivo con diferentes editores de texto, desde la interfaz gráfica y la terminal
 
 
 ## :books: Para aprender más
