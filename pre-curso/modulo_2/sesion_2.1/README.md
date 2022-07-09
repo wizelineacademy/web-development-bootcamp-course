@@ -7,9 +7,9 @@
 
 ## :computer: Actividades
 
-- Elige el tema sobre el que trabajaras tu página tributo.
-- Crea la carpeta donde guardaremos los archivos del curso
-- Crea el archivo index.html dentro de la carpeta que creaste
+- [ ] Elige el tema sobre el que trabajaras tu página tributo.
+- [ ] Crea la carpeta donde guardaremos los archivos del curso
+- [ ] Crea el archivo index.html dentro de la carpeta que creaste
 
 
 ## :books: Para aprender más
