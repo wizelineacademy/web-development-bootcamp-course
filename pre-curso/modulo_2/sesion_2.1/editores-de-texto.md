@@ -49,13 +49,13 @@ terminal, el siguiente comando
 
 Para editar un archivo, desde el explorador navegamos a nuestro archivo deseado y damos doble clic para abrirlo.
 
-![](img_6.png)
+![](aasets/img_6.png)
 
-![](img_7.png)
+![](aasets/img_7.png)
 
 Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo.
 
-![img_2.png](img_2.png)
+![img_2.png](aasets/img_2.png)
 
 ### nano
 
@@ -68,7 +68,7 @@ comando:
 
 `cd web-development-bootcamp`
 
-![img.png](img.png)
+![img.png](aasets/img.png)
 
 Para abrir nuestro archivo con vim ejecutaremos el siguiente comando:
 
@@ -79,7 +79,7 @@ Y se nos abrirá el editor en nuestra terminal
 Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo
 presionando la tecla `ctrl` y la letra `O` al mismo tiempo.
 
-![img_5.png](img_5.png)
+![img_5.png](aasets/img_5.png)
 
 Para cerrar el editor presionamos la tecla `ctrl` y la letra `X` al mismo tiempo.
 
@@ -95,7 +95,7 @@ comando:
 
 `cd web-development-bootcamp`
 
-![img.png](img.png)
+![img.png](aasets/img.png)
 
 Para abrir nuestro archivo con vim ejecutaremos el siguiente comando:
 
@@ -103,16 +103,16 @@ Para abrir nuestro archivo con vim ejecutaremos el siguiente comando:
 
 Y se nos abrirá el editor en nuestra terminal
 
-![img_1.png](img_1.png)
+![img_1.png](aasets/img_1.png)
 
 Para entrar en modo edición presionamos la tecla `i` que nos pondra en el modo insertar
 
-![img_4.png](img_4.png)
+![img_4.png](aasets/img_4.png)
 
 Añadimos el siguiente contenido, que representa la estructura básica de una página en HTML5, y guardamos el archivo.
 Presionamos la tecla `escape (esc)`, escribimos `:wq` y presionamos `enter`,
 donde la `w (write)` nos indica que escribiremos los cambios y la `q (quit)` sera para cerrar vim.
 
-![img_3.png](img_3.png)
+![img_3.png](aasets/img_3.png)
 
 

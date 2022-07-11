@@ -8,6 +8,7 @@
 
 - [Crear archivos y carpetas utilizando la terminal](crear-archivos-y-carpetas-usando-la-terminal.md)
 - [Editores de texto](editores-de-texto.md)
+- [Código](https://github.com/wizeline/web-development-bootcamp-project/tree/pre-curso/sesion_2-1/pre-curso/tribute-page)
 
 
 ## :computer: Actividades
