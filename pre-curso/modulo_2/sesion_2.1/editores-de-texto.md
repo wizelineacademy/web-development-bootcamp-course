@@ -1,5 +1,24 @@
 # Editores de texto
 
+Modificaremos nuestro archivo `index.html` para que contenga la estructura básica de un sitio HTML5
+
+```html
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Mi primera página</title>
+</head>
+<body>
+
+</body>
+</html>
+
+```
+
+Realizalo utilizando algun editor de texto plano con interfaz gráfica y si te encuentras en Linux o Mac realizalo también utilizado un editor desde la terminal.
+
+
 ## Windows
 
 En Windows podemos utilizar el bloc de notas o notedap++ que incluye algunas funciones adicionales con las que no cuenta el bloc de notas.
