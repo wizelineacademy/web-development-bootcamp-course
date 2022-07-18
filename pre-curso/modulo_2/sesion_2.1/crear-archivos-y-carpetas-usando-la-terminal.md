@@ -1,5 +1,17 @@
 # Crear archivos y carpetas usando la terminal
 
+Desde la interfaz gráfica:
+
+- Crea la carpeta web-development–bootcamp
+- Crea el archivo index.html
+- Borra la carpeta
+
+Desde la terminal
+
+- Crea la carpeta web-development–bootcamp
+- Crea el archivo index.html
+
+
 ## Windows
 
 Utilizamos el comando `cd` para identificar el directorio (tambíen conocido como carpeta o folder) donde nos encontramos
