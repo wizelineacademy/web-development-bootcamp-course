@@ -4,7 +4,7 @@ Bienvenido al curso de desarrollo web
 
 ## :bookmark_tabs: Sesiones
 1. Historia y conceptos de la web
-    1. [Historia de la web](https://github.com/wizeline/web-development-bootcamp/blob/main/pre-curso/modulo_1/sesion_1.1)
+    1. [Historia de la web](pre-curso/modulo_1/sesion_1.1)
     2. [Aplicaciones web](https://github.com/wizeline/web-development-bootcamp/blob/main/pre-curso/modulo_1/sesion_1.2)
     3. [Frontend](https://github.com/wizeline/web-development-bootcamp/blob/main/pre-curso/modulo_1/sesion_1.3)
 3. HTML  
