@@ -6,7 +6,7 @@
 
 ## :clipboard: Recursos de la lección
 
-- [Código](https://github.com/wizeline/web-development-bootcamp-project/tree/pre-curso/sesion_2-2/pre-curso/tribute-page)
+- [Código](https://github.com/wizelineacademy/web-development-bootcamp-project/tree/pre-curso/sesion_2.1.2/pre-curso/tribute-page)
 
 
 ## :computer: Actividades
