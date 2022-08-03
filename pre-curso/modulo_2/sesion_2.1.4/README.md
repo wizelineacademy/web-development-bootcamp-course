@@ -16,6 +16,9 @@
 - [ ] Añade contneido al `header`
 - [ ] Utiliza las propiedades de flexbox para mostrar el `footer` en la parte baja de la página
 - [ ] Remueve los margenes del elemento `body` para que el contenido abarque toda la ventana del navegador.
+- [ ] Practica tus habilidades de flexbox con los siguientes juegos:
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [Flexbox Zombies](https://mastery.games/flexboxzombies/chapter/1/level/1)
 
 
 
