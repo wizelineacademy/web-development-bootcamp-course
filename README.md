@@ -14,3 +14,12 @@ Bienvenido al curso de desarrollo web
     1. [Elementos semánticos, introducción a CSS y flexbox](pre-curso/modulo_2/sesion_2.1.4)
     1. [Selectores CSS, fuentes e iconos personalizados y formularios](pre-curso/modulo_2/sesion_2.1.5)
 3. Javascript
+    1. [Introducción y setup](pre-curso/modulo_3/sesion_3.1)
+    2. [Variabes y tipos de datos](pre-curso/modulo_3/sesion_3.2)
+    3. [Lógica y aritmética](pre-curso/modulo_3/sesion_3.3)
+    3. [Funciones](pre-curso/modulo_3/sesion_3.4)
+    3. [DOM & Manipulación del DOM](pre-curso/modulo_3/sesion_3.5)
+    3. [Arreglos y métodos de arreglos](pre-curso/modulo_3/sesion_3.6)
+    3. [Callbacks](pre-curso/modulo_3/sesion_3.7)
+    3. [Asincronía](pre-curso/modulo_3/sesion_3.8)
+    3. [ECMAscript](pre-curso/modulo_3/sesion_3.9)
