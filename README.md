@@ -13,6 +13,7 @@ Bienvenido al curso de desarrollo web
     1. [Layouts, tablas e introducción al modelo de caja](pre-curso/modulo_2/sesion_2.1.3)
     1. [Elementos semánticos, introducción a CSS y flexbox](pre-curso/modulo_2/sesion_2.1.4)
     1. [Selectores CSS, fuentes e iconos personalizados y formularios](pre-curso/modulo_2/sesion_2.1.5)
+    1. [Listas, media queries y CSS externo](pre-curso/modulo_2/sesion_2.1.6)
 3. Javascript
     1. [Introducción y setup](pre-curso/modulo_3/sesion_3.1)
     2. [Variabes y tipos de datos](pre-curso/modulo_3/sesion_3.2)
