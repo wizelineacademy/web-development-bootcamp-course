@@ -4,9 +4,9 @@ Bienvenido al curso de desarrollo web
 
 ## :bookmark_tabs: Sesiones
 1. Historia y conceptos de la web
-    1. [Historia de la web](pre-curso/modulo_1/sesion_1.1)
-    2. [Aplicaciones web](pre-curso/modulo_1/sesion_1.2)
-    3. [Frontend](pre-curso/modulo_1/sesion_1.3)
+    1.1 [Historia de la web](pre-curso/modulo_1/sesion_1.1)
+    1.2 [Aplicaciones web](pre-curso/modulo_1/sesion_1.2)
+    1.3 [Frontend](pre-curso/modulo_1/sesion_1.3)
 2. HTML  
     1. [Introducción a HTML y editores de texto](pre-curso/modulo_2/sesion_2.1.1)
     2. [Etiquetas HTML básicas](pre-curso/modulo_2/sesion_2.1.2)
