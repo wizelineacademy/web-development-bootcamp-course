@@ -1,7 +1,7 @@
 ## :tv: Video
 
 <div align="center">
-  <a target="_blank" href="https://drive.google.com/file/d/1E6oJvYodqzTX46a7KP2H_ZkPDcuWsOPj/view?usp=sharing"><img src="https://github.com/wizeline/web-development-bootcamp-course/blob/main/pre-curso/modulo_1/sesion_1.2/assets/cover%20image%201.2.png?raw=true" alt="Da clic para ver el vídeo"></a>
+  <a target="_blank" href="https://drive.google.com/file/d/1E6oJvYodqzTX46a7KP2H_ZkPDcuWsOPj/view?usp=sharing"><img src="assets/cover%20image%201.2.png?raw=true" alt="Da clic para ver el vídeo"></a>
 </div>
 
 ## :clipboard: Recursos de la lección
