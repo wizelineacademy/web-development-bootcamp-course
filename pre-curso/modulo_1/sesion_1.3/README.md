@@ -6,7 +6,7 @@
 
 ## :clipboard: Recursos de la lección
 
-- [Diagrama de delimitación del Frontend](https://github.com/wizeline/web-development-bootcamp-course/blob/main/pre-curso/modulo_1/sesion_1.3/assets/delimitacion%20del%20frontend.png?raw=true)
+- [Diagrama de delimitación del Frontend](https://github.com/wizelineacademy/web-development-bootcamp-course/blob/main/pre-curso/modulo_1/sesion_1.3/assets/delimitacion%20del%20frontend.png?raw=true)
 
 ## :computer: Actividades
 
