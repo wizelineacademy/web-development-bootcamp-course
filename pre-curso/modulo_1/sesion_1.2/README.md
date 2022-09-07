@@ -6,7 +6,7 @@
 
 ## :clipboard: Recursos de la lección
 
-- [Diagrama de componentes de una webapp](https://github.com/wizeline/web-development-bootcamp-course/blob/main/pre-curso/modulo_1/sesion_1.2/assets/Diagrama%20componentes%20de%20una%20webapp.png?raw=true)
+- [Diagrama de componentes de una webapp](https://github.com/wizelineacademy/web-development-bootcamp-course/blob/main/pre-curso/modulo_1/sesion_1.2/assets/Diagrama%20componentes%20de%20una%20webapp.png?raw=true)
 
 ## :computer: Actividades
 
