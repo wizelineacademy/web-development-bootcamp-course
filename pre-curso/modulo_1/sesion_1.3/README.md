@@ -10,7 +10,7 @@
 
 ## :computer: Actividades
 
-- [ ] [Responde el siguiente cuestionario](https://forms.gle/kUQry7iVE25gtFSw5)
+- [ ] [Responde el siguiente cuestionario](https://forms.gle/XdS6tbz6RsKHkTbV6)
 
 ## :books: Para aprender más
 
