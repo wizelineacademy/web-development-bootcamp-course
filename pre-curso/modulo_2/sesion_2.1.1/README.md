@@ -1,7 +1,7 @@
 ## :tv: Video
 
 <div align="center">
-  <a target="_blank" href="https://drive.google.com/file/d/1gMGkRweiPrN3EX_7c3jfu1g0VOjPPppd/view?usp=sharing"><img src="assets/portada%20video.png" alt="Da clic para ver el vídeo"></a>
+  <a target="_blank" href="https://drive.google.com/file/d/1gMGkRweiPrN3EX_7c3jfu1g0VOjPPppd/view?usp=sharing"><img src="assets/portada.png" alt="Da clic para ver el vídeo"></a>
 </div>
 
 ## :clipboard: Recursos de la lección
