@@ -13,7 +13,7 @@
 
 - [ ] Remplaza los divs del layout por elementos semánticos
 - [ ] Utiliza las propiedades de flexbox para el layout de la página
-- [ ] Añade contneido al `header`
+- [ ] Añade contenido al `header`
 - [ ] Utiliza las propiedades de flexbox para mostrar el `footer` en la parte baja de la página
 - [ ] Remueve los margenes del elemento `body` para que el contenido abarque toda la ventana del navegador.
 - [ ] Practica tus habilidades de flexbox con los siguientes juegos:
