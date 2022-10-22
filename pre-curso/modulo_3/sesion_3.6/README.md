@@ -1,7 +1,7 @@
 ## :tv: Presentación
 
 <div align="center">
-  <a target="_blank" href="https://docs.google.com/presentation/d/15rzyZYfVJb9_Q-Akgt6apu739hGxvJBJGzSeRQgnjK0/edit?usp=sharing"><img src="assets/portada.png" alt="Da clic para ver la presentación"></a>
+  <a target="_blank" href="https://docs.google.com/presentation/d/15rzyZYfVJb9_Q-Akgt6apu739hGxvJBJGzSeRQgnjK0/edit?usp=sharing"><img src="assets/portada.jpg" alt="Da clic para ver la presentación"></a>
 </div>
 
 ## :clipboard: Recursos de la lección
