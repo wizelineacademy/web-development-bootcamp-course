@@ -19,5 +19,6 @@ Bienvenido al curso de desarrollo web
     3. [Lógica y aritmética](pre-curso/modulo_3/sesion_3.3)
     4. [Funciones](pre-curso/modulo_3/sesion_3.4)
     5. [DOM & Manipulación del DOM](pre-curso/modulo_3/sesion_3.5)
-    6. [Objetos, arreglos y métodos de arreglos](pre-curso/modulo_3/sesion_3.6)
-    7. [Asincronía y deploy](pre-curso/modulo_3/sesion_3.7)
+    6. [Objetos y arreglos](pre-curso/modulo_3/sesion_3.6)
+    7. [Métodos de arreglos](pre-curso/modulo_3/sesion_3.7)
+    8. [Asincronía y deploy](pre-curso/modulo_3/sesion_3.8)

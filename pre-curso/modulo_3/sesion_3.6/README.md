@@ -17,27 +17,9 @@
 - [ ] Utiliza push para añadir una frambuesa.
 - [ ] Utiliza shift para eliminar la primera fruta.
 - [ ] Puedes utilizar console.log() Para verificar los cambios en tu arreglo
-- [ ] Utiliza los 4 métodos de arreglos para trabajar con nuestras calificaciones y volver a sacar el promedio, en adición: 
-- [ ] Usa find() para saber si hay mínimo 1 reprobado.
-- [ ] Utiliza reduce() para sumar las calificaciones.
-- [ ] Utiliza map() para almacenar en un arreglo aquellos que hayan sacado más de 8.
-- [ ] Utiliza filter() Para encontrar las calificaciones aprobatorias.
-- [ ] Agrega un event listener a cada una de los elementos en tu arreglo keys, cada que hagas click en el elemento, corre la función playNote, enviando como parámetro la key.
-- [ ] Añade una clase a tu elemento key, el cual recibes por parámetro, esta clase se llama active.
-- [ ] Añade un event listener al elemento noteAudio, para que al finalizar, elimine la clase del elemento key.
 
 
 ## :books: Para aprender más
 
 - [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 - [Objetos](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
-- [map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-- [filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-- [reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
-- [find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
-
-
-
-
-
-

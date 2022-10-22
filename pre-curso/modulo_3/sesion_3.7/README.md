@@ -1,25 +1,30 @@
 ## :tv: Presentación
 
 <div align="center">
-  <a target="_blank" href="https://docs.google.com/presentation/d/1y5RZNcbfq82ZOncT9ob6jelmiz0N2wrgDl4AKtMuF58/edit?usp=sharing"><img src="assets/portada.png" alt="Da clic para ver la presentación"></a>
+  <a target="_blank" href="https://docs.google.com/presentation/d/1uJXm8ZwT18HJdcdSqyQVdBQLl0iSTODQGEhkRQNMHX4/edit?usp=sharing"><img src="assets/portada.jpg" alt="Da clic para ver la presentación"></a>
 </div>
 
 ## :clipboard: Recursos de la lección
 
-- [Código](https://github.com/wizelineacademy/web-development-bootcamp-project/tree/pre-curso/sesion_3.7/pre-curso/musical-instrument)
+- [Código](https://github.com/wizelineacademy/web-development-bootcamp-project/tree/pre-curso/sesion_3.6/pre-curso/musical-instrument)
 
 
 ## :computer: Actividades
-- [ ] Crea una función callback para que, mediante una condicional, decidir si la respuesta es correcta y modifica tu elemento con id GuessedAge.
-- [ ] Utiliza callbacks, promesas y async/await para realizar diferentes versiones de tu llamada al servidor.
-- [ ] Despliega tu sitio en github pages
-
+- [ ] Utiliza los 4 métodos de arreglos para trabajar con nuestras calificaciones y volver a sacar el promedio, en adición: 
+- [ ] Usa find() para saber si hay mínimo 1 reprobado.
+- [ ] Utiliza reduce() para sumar las calificaciones.
+- [ ] Utiliza map() para almacenar en un arreglo aquellos que hayan sacado más de 8.
+- [ ] Utiliza filter() Para encontrar las calificaciones aprobatorias.
+- [ ] Agrega un event listener a cada una de los elementos en tu arreglo keys, cada que hagas click en el elemento, corre la función playNote, enviando como parámetro la key.
+- [ ] Añade una clase a tu elemento key, el cual recibes por parámetro, esta clase se llama active.
+- [ ] Añade un event listener al elemento noteAudio, para que al finalizar, elimine la clase del elemento key.
 
 
 ## :books: Para aprender más
 
-- [Asincronismo](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
-- [Promesas](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
-- [Async/Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-- [The event loop](https://medium.com/@Rahulx1/understanding-event-loop-call-stack-event-job-queue-in-javascript-63dcd2c71ecd)
-- [Desplegando con github pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+- [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+- [Objetos](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- [map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+- [reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+- [find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
