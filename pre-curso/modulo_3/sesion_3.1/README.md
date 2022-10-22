@@ -7,6 +7,7 @@
 ## :clipboard: Recursos de la lección
 
 - [Código](https://github.com/wizelineacademy/web-development-bootcamp-project/tree/pre-curso/sesion_3.1/pre-curso/musical-instrument)
+- [Instalación de VS Code](https://drive.google.com/file/d/1R0Zltn6QsKA9LCiKnB1XR7vFeEx9AZj5/view?usp=sharing)
 
 
 ## :computer: Actividades
