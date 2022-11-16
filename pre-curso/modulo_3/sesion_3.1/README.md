@@ -14,7 +14,7 @@
 - [ ] Crea una carpeta con el nombre js-instrument.
 - [ ] Abre js-instrument con Visual Studio Code.
 - [ ] Crea dos archivos, index.html y styles.css, vincúlalos. 
-- [ ] Vincula un archivo llamado main.js a tu archivo HTML, en el, escribe console.log('Hola mundo')
+- [ ] Vincula un archivo llamado main.js a tu archivo HTML, en el, escribe: `console.log('Hola mundo')`
 
 
 
